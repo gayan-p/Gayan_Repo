@@ -18,6 +18,7 @@
     },
     "_source": {
         "includes": [
+            "message_id",
             "source"
         ]
     }
